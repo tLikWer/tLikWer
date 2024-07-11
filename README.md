@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋! My name is Odilbek and I'm a Backend Developer, from Uzbekistan</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tlikwer&label=Profile%20views&color=0e75b6&style=flat" alt="tlikwer" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tlikwer&label=Profile%20views&color=0e75b6&style=flat" height="50" alt="tlikwer" /> </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tLikWer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph"  />
