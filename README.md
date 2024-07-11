@@ -1,10 +1,6 @@
 <h3 align="center">👋 Hi, I’m @tLikWer!
 </h3>
 
-<a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LikWer&label=Profile%20Views&icon=5&pretty=true" />
-</a>
-
 <h3 align="center">Backend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlikwer&label=Profile%20views&color=0e75b6&style=flat" alt="tlikwer" /> </p>
