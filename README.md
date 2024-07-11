@@ -1,4 +1,51 @@
-<h3 align="center">👋 Hi, I’m @tLikWer!
+<h3 align="center">Hi 👋! My name is Odilbek and I'm a Backend Developer, from Uzbekistan</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tLikWer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="215" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tLikWer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=qwertyggg7878@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/odilbek-orifjonov-a76738318/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/Odilbek_6025" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+===========================================
 </h3>
 
 <h3 align="center">Backend developer from Uzbekistan</h3>
@@ -18,3 +65,5 @@ alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlikwer&show_icons=true&locale=en&layout=compact" alt="tlikwer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tlikwer&show_icons=true&locale=en" alt="tlikwer" /></p>
+
+<img src="https://raw.githubusercontent.com/tLikWer/tLikWer/output/snake.svg" alt="Snake animation" />
