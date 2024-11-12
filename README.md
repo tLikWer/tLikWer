@@ -63,5 +63,5 @@
 </p>
 
 <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LikWer&label=Profile%20Views&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=tLikWer&label=Profile%20Views&icon=1&pretty=false" />
 </a>
