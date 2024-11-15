@@ -62,4 +62,4 @@
   </a> 
 </p>
 
-  <img src="https://visitcount.itsvg.in/api?id=tLikWer&label=Profile%20Views&icon=1&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=tLikWer&label=Profile%20Views&icon=1&pretty=false"/>
