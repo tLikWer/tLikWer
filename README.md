@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Odilbek and I'm a Backend Developer, from Uzbekistan</h3>
+<h3 align="center">👋 Hi! I'm Odilbek — a backend developer, frontend crafter and ethical hacker from Uzbekistan 🇺🇿</h3>
 
 
 <h3 align="left">Connect with me:</h3>
